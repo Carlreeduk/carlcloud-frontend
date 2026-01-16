@@ -1,0 +1,2 @@
+[06-Sep-2023 18:47:05 +0000]: <chc8na9g> IMAP Error: Login failed for carls-cloud against localhost from 82.132.228.83 (X-Forwarded-For: 10.66.193.183). AUTHENTICATE PLAIN: Authentication failed. in /home/carls-cloud/public_html/mail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /mail/?_task=login&_action=login)
+[11-Jul-2025 15:40:27 +0000]: <nsnmp5bq> DB Error: SQLSTATE[HY000] [1045] Access denied for user 'carls-cloud'@'localhost' (using password: YES) in /home/carlcloud/public_html/mail/program/lib/Roundcube/rcube_db.php on line 201 (GET /mail/)
